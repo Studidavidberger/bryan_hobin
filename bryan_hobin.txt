@@ -15,3 +15,7 @@ Objectifs :
  - creer un site mobile first.
  - Peser moins de 500KB.
  - Déployer sur alwaysdata.
+
+
+liens : 
+data OG https://ogp.me/
