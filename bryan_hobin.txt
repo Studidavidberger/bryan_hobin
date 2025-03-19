@@ -1,0 +1,17 @@
+Création d'un site web vitrine pour le youtubeur bryan hobin.
+- le site devra contenir au minimum 2 pages
+1 page relative a bryan hobin
+1 page publicitaire des evenements de bryan hobin.
+
+etre responsive, et mobile first.
+
+taches : 
+ - interface utilisateur
+ - Structure sémantique html et utilisation des méta pour optimiser le référencement.
+ - 
+
+Objectifs :
+ - Creer un site responsive.
+ - creer un site mobile first.
+ - Peser moins de 500KB.
+ - Déployer sur alwaysdata.
