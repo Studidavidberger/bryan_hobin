@@ -1,5 +1,6 @@
 Bonjour ! Je suis Bryan Hobin, et je cherche à créer un site web qui soit à la fois responsive et personnalisé.
 J'aimerais qu'il reflète mon style
+
  - modernes et professionnelles
  - sombre dans l’ensemble, car cela mettrait en valeur mon travail de graphisme
  - des touches de couleur vive (comme le bleu ou l’orange ou jaune) pour les éléments interactifs ou certains détails.
@@ -13,14 +14,25 @@ cible :
  - agences de publicités
  - personnes qui recherches des solutions de design, et d'informatiques.
 
-taches : 
- - interface utilisateur
- - Structure sémantique html et utilisation des méta pour optimiser le référencement.
+page d'accueil
+ - effet de fondu des section au defilement de la page
+ - effet de zoom sur les images et boutons au hover
+ - banniere, slogan, et bouton CTA ("decouvrir mon travail")
+ - appercu du portfolio et des tutoriels sous forme de bloc et de cartes
+
+Page portfolio
+ - grille d'image avec zoom au survol et afficher le titre
+
+page des tutoriels
+ - disposition en liste ou grille, image de miniature et un resumé
+ - possibilité de trier par catégorie
+
+page contact
+ - formulaire simple et clair
+ -  section reseau sociaux et un plan google map
 
 Objectifs :
  - Creer un site responsive.
  - creer un site mobile first.
  - Peser moins de 500KB.
  - Déployer sur alwaysdata.
- - 1 page relative a bryan hobin
- - 1 page publicitaire des evenements de bryan hobin.
